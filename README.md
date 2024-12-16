@@ -1,3 +1,3 @@
 # FTKL
 
-= Lauflicht 
+ - Lauflicht 
